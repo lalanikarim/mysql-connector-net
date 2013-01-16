@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\src\MainSource\6.6-test3\ConnectorNet.nunit" total="9" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-10-11" time="10:51:17">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.5456" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="D:\src\MainSource\6.6-test3" machine-name="5YJDTM1" user="fergs" user-domain="5YJDTM1" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="D:\src\MainSource\6.6-test3\ConnectorNet.nunit" executed="True" result="Success" success="True" time="28.104" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="D:\src\MainSource\6.6-test3\Tests\MySql.Data.Entity.Tests\bin\Release\MySql.Data.Entity.Tests.dll" executed="True" result="Success" success="True" time="28.082" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="MySql" executed="True" result="Success" success="True" time="28.081" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Data" executed="True" result="Success" success="True" time="28.081" asserts="0">
+                <results>
+                  <test-suite type="Namespace" name="Entity" executed="True" result="Success" success="True" time="28.081" asserts="0">
+                    <results>
+                      <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="28.080" asserts="0">
+                        <results>
+                          <test-suite type="TestFixture" name="JoinTests" executed="True" result="Success" success="True" time="28.077" asserts="0">
+                            <results>
+                              <test-case name="MySql.Data.Entity.Tests.JoinTests.CanIncludeWithEagerLoading" executed="True" result="Success" success="True" time="16.089" asserts="6" />
+                              <test-case name="MySql.Data.Entity.Tests.JoinTests.JoinOfNestedUnionsWithLimit" executed="True" result="Success" success="True" time="3.049" asserts="1" />
+                              <test-case name="MySql.Data.Entity.Tests.JoinTests.JoinOfUnionsOnRightSideofJoin" executed="True" result="Success" success="True" time="3.123" asserts="14" />
+                              <test-case name="MySql.Data.Entity.Tests.JoinTests.JoinOnRightSideAsDerivedTable" executed="True" result="Success" success="True" time="1.245" asserts="1" />
+                              <test-case name="MySql.Data.Entity.Tests.JoinTests.JoinOnRightSideNameClash" executed="True" result="Success" success="True" time="0.564" asserts="4" />
+                              <test-case name="MySql.Data.Entity.Tests.JoinTests.JoinsAndConcatsWithComposedKeys" executed="True" result="Success" success="True" time="1.038" asserts="0" />
+                              <test-case name="MySql.Data.Entity.Tests.JoinTests.SimpleJoin" executed="True" result="Success" success="True" time="0.653" asserts="5" />
+                              <test-case name="MySql.Data.Entity.Tests.JoinTests.SimpleJoinWithPredicate" executed="True" result="Success" success="True" time="0.524" asserts="4" />
+                              <test-case name="MySql.Data.Entity.Tests.JoinTests.t" executed="True" result="Success" success="True" time="0.555" asserts="0" />
+                            </results>
+                          </test-suite>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

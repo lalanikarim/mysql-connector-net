@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-2129]D:\src\MainSource\6.6-test3\Tests\MySql.Data.Entity.Tests\bin\Release\MySql.Data.Entity.Tests.dll</TopNode>
+  <SelectedNode>[0-2044]MySql.Data.Entity.Tests.JoinTests</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]D:\src\MainSource\6.6-test3\ConnectorNet.nunit" Expanded="true" />
+    <Node UniqueName="[0-2009]MySql" Expanded="true" />
+    <Node UniqueName="[0-2010]MySql.Data" Expanded="true" />
+    <Node UniqueName="[0-2011]MySql.Data.MySqlClient" Expanded="true" />
+    <Node UniqueName="[0-2129]D:\src\MainSource\6.6-test3\Tests\MySql.Data.Entity.Tests\bin\Release\MySql.Data.Entity.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-2130]MySql" Expanded="true" />
+    <Node UniqueName="[0-2131]MySql.Data" Expanded="true" />
+    <Node UniqueName="[0-2132]MySql.Data.Entity" Expanded="true" />
+    <Node UniqueName="[0-2133]MySql.Data.Entity.Tests" Expanded="true" />
+    <Node UniqueName="[0-2044]MySql.Data.Entity.Tests.JoinTests" Expanded="true" />
+    <Node UniqueName="[0-2197]D:\src\MainSource\6.6-test3\Tests\MySql.Web.Tests\bin\Release\MySql.Web.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-2198]MySql" Expanded="true" />
+    <Node UniqueName="[0-2199]MySql.Web" Expanded="true" />
+    <Node UniqueName="[0-2200]MySql.Web.Tests" Expanded="true" />
+  </Nodes>
+</VisualState>
